@@ -1,0 +1,16 @@
+PODS:
+  - LBBaseTools (0.1.0)
+
+DEPENDENCIES:
+  - LBBaseTools (from `../`)
+
+EXTERNAL SOURCES:
+  LBBaseTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBBaseTools: 780873dbf9d50223e49d033bfe73bf15adcf646c
+
+PODFILE CHECKSUM: bd8fb6eb01c3e2ca05dce41e5792b0624b0b917e
+
+COCOAPODS: 1.5.3
